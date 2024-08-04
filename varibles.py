@@ -60,7 +60,7 @@ name[-4]
 't'
 
 
-name[0:2]  #this 2 doses not means number of characters ,it means the ending
+name[0:2]  #this 2 does not means number of characters ,it means the ending
 'Yo'
 
 name[1:4]
