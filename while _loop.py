@@ -46,7 +46,12 @@ while i<=5:
         j=j+1
     i=i+1
     print()
- 
 
-    
+#output:
+ # HareeshSrikanthSrikanthSrikanthSrikanth
+ # HareeshSrikanthSrikanthSrikanthSrikanth
+ # HareeshSrikanthSrikanthSrikanthSrikanth
+ # HareeshSrikanthSrikanthSrikanthSrikanth
+ # HareeshSrikanthSrikanthSrikanthSrikanth
+
     
