@@ -28,7 +28,7 @@ def fact(n):
         return 1
     return n*fact(n-1)
 x=int(input('Enter the value of your number:'))
-result=fact(5)
+result=fact(x)
 print('The factorial of the your number is:',result)
 
 
