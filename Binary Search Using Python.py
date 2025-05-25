@@ -27,7 +27,7 @@ if search(list,n):
     print('its found at:',pos+1)
 
 else:
-    print('Not found')
+    print('Not found in the given list')
 
 
 
